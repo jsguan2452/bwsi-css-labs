@@ -39,6 +39,7 @@ def simple_calculator(operation: str, num1: float, num2: float) -> float:
 
 def main():
     
+    #comment
     print(f"===== Simple Calculator =====")
 
     while True:
